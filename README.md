@@ -95,7 +95,3 @@ The `predicted_sentiment` column (note: renamed from older `sentiment`) carries 
 * **Data** – Support more languages by replacing the preprocessing steps or using language-specific sentiment models.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License – see the `LICENSE` file for details.
